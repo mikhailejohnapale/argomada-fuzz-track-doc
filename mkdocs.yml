@@ -1,0 +1,13 @@
+site_name: Fuzz Track
+pages:
+- Index: 'index.md'
+- 'Chapter0 - Prelude':
+    - 'Title Page': 'chapter0/title-page.md'
+    - 'Approval Sheet': 'chapter0/approval-sheet.md'
+    - 'Acceptance Sheet': 'chapter0/acknowledgement.md'
+    - 'Dedication': 'chapter0/dedication.md'
+    - 'Abstract': 'chapter0/abstract.md'
+    - 'Table of Contents': 'chapter0/table-of-contents.md'
+    - 'List of Tables': 'chapter0/list-of-tables.md'
+    - 'List of Figures': 'chapter0/list-of-figures.md'
+theme: readthedocs
