@@ -2,7 +2,7 @@
 
 **Traffic Congestion Notification System using Fuzzy Logic Algorithm**
 
-- Read the docs webpage is [http://argomada-fuzz-track.readthedocs.org/en/latest/](http://argomada-fuzz-track.readthedocs.org/en/latest/)
+- Read the docs webpage is [http://argomada-fuzz-track-doc.readthedocs.org/en/latest/](http://argomada-fuzz-track-doc.readthedocs.org/en/latest/)
 
 ## Usage
 
