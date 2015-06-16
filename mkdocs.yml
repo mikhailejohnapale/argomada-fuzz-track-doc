@@ -1,13 +1,17 @@
 site_name: Fuzz Track
 pages:
 - Index: 'index.md'
-- 'Chapter0 - Prelude':
-    - 'Title Page': 'chapter0/title-page.md'
-    - 'Approval Sheet': 'chapter0/approval-sheet.md'
-    - 'Acceptance Sheet': 'chapter0/acknowledgement.md'
-    - 'Dedication': 'chapter0/dedication.md'
-    - 'Abstract': 'chapter0/abstract.md'
-    - 'Table of Contents': 'chapter0/table-of-contents.md'
-    - 'List of Tables': 'chapter0/list-of-tables.md'
-    - 'List of Figures': 'chapter0/list-of-figures.md'
+- 'Chapter 0 - Prelude':
+  - 'Title Page': 'chapter0/title-page.md'
+  - 'Approval Sheet': 'chapter0/approval-sheet.md'
+  - 'Acceptance Sheet': 'chapter0/acknowledgement.md'
+  - 'Dedication': 'chapter0/dedication.md'
+  - 'Abstract': 'chapter0/abstract.md'
+  - 'Table of Contents': 'chapter0/table-of-contents.md'
+  - 'List of Tables': 'chapter0/list-of-tables.md'
+  - 'List of Figures': 'chapter0/list-of-figures.md'
+- 'Chapter 1 - Introduction':
+  - 'Rationale': 'chapter1/rationale.md'
+  - 'Objective of the Study': 'chapter1/objectives-of-the-study.md'
+  - 'Scope and Limitations of the Study': 'chapter1/scope-and-limitations-of-the-study.md'
 theme: readthedocs
