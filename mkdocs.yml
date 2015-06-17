@@ -29,7 +29,7 @@ pages:
   - 'Functional Requirements': 'chapter5/functional-requirements.md'
   - 'Non - Functional Requirements': 'chapter5/non-functional-requirements.md'
 - 'Chapter 6 - Conclusions and Recommendations':
-  - 'Conslusions': 'chapter6/conclusions.md'
+  - 'Conclusions': 'chapter6/conclusions.md'
   - 'Recommendations': 'chapter6/recommendations.md'
 - 'References': 'references.md'
 - 'Appendices':
