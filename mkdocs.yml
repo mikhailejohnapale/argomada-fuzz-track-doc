@@ -1,6 +1,6 @@
 site_name: Fuzz Track
 pages:
-- Index: 'index.md'
+- 'Index': 'index.md'
 - 'Chapter 0 - Prelude':
   - 'Title Page': 'chapter0/title-page.md'
   - 'Approval Sheet': 'chapter0/approval-sheet.md'
@@ -14,4 +14,26 @@ pages:
   - 'Rationale': 'chapter1/rationale.md'
   - 'Objective of the Study': 'chapter1/objectives-of-the-study.md'
   - 'Scope and Limitations of the Study': 'chapter1/scope-and-limitations-of-the-study.md'
+- 'Chapter 2 - Review on Related Literature':
+  - 'Review on Related Literature': 'chapter2/review-on-related-literature.md'
+- 'Chapter 3 - Technical Background':
+  - 'Algorithm': 'chapter3/algorithm.md'
+  - 'Use Case Diagram': 'chapter3/usecase.md'
+  - 'Activty Diagrams': 'chapter3/activity-diagrams.md'
+  - 'Non Functional Requirements': 'chapter3/non-functional-requirements.md'
+- 'Chapter 4 - Design and Methodology':
+  - 'Data': 'chapter4/data.md'
+  - 'System Architecture': 'chapter4/system-architecture.md'
+  - 'Test Cases': 'chapter4/test-cases.md'
+- 'Chapter 5 - Results and Discussion':
+  - 'Functional Requirements': 'chapter5/functional-requirements.md'
+  - 'Non - Functional Requirements': 'chapter5/non-functional-requirements.md'
+- 'Chapter 6 - Conclusions and Recommendations':
+  - 'Conslusions': 'chapter6/conclusions.md'
+  - 'Recommendations': 'chapter6/recommendations.md'
+- 'References': 'references.md'
+- 'Appendices':
+  - 'Appendix A. Relevant Source Code': 'appendices/relevant-source-code.md'
+  - 'Appendix B. Evaluation Tool': 'appendices/evaluation-tool.md'
+  - 'Appendix C. Curriculum Vitae': 'appendices/curriculum-vitae.md'
 theme: readthedocs
