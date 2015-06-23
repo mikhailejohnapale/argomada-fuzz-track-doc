@@ -12,8 +12,8 @@
 ```
 cd \
 cd Downloads \
-git clone git@github.com:argomada/argomada-fuzz-track.git \
-cd argomada-fuzz-track \
+git clone git@github.com:argomada/argomada-fuzz-track-doc.git \
+cd argomada-fuzz-track-doc \
 pip install -r requirements.txt \
 exit
 ```
@@ -23,7 +23,7 @@ exit
 
 ```
 cd \
-cd Downloads/argomada-fuzz-track \
+cd Downloads/argomada-fuzz-track-doc \
 mkdocs serve
 ```
 
