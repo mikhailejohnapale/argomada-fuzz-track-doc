@@ -35,7 +35,7 @@ Mikhaile John G. Apale
 
 | Attribute              | Detail                                                                  |
 |------------------------|-------------------------------------------------------------------------|
-| Operating System       | (Mutli Boot)Ubuntu Desktop 14.04.2 LTS (Trusty Tahr) x64, Windows 8.1   |
+| Operating System       | (Mutli Boot) Ubuntu Desktop 14.04.2 LTS (Trusty Tahr) x64, Windows 8.1  |
 | Laptop Model           | Asus K55V series                                                        |
 | Processor              | Intel® Core™ i7 3610QM Processor (2.4GHz)                               |
 | RAM Size (GB)          | DDR3 1600 MHz SDRAM,                                                    |
