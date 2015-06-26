@@ -12,7 +12,7 @@ nature to accept small uncertain inputs and process this inputs to make
 reliable results that will eventually solve the traffic issues in the city.
 Another reason for this study is the researchers fascination about computer vision.
 The large community on computer vision will aid the researchers in prototyping the system.
-The research team is also new on computer vision and fuzzy logic concepts
+The researchers is also new on computer vision and fuzzy logic concepts
 and wants to improve on these domains for future ventures.
 
 Some challenges and limitations of the proposed system is accident handling
