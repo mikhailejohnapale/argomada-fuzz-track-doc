@@ -14,15 +14,3 @@ Another reason for this study is the researchers fascination about computer visi
 The large community on computer vision will aid the researchers in prototyping the system.
 The researchers is also new on computer vision and fuzzy logic concepts
 and wants to improve on these domains for future ventures.
-
-Some challenges and limitations of the proposed system is accident handling
-and recognition. The system itself performing the detection process on one
-video source consumes 90 percent of processing resources, imagine the computing
-requirements if the system has to detect 10 simultaneous video sources with
-multiple objects to detect in one video source. The video source will capture
-any objects in sight with out any classification regardless if it is a vehicle
-or not since we are using background subtraction as our motion detection technique.
-
-The importance of our study will help the city government in their problem about
-traffic management and continue to provide traffic data to perform decisions
-regarding the future of traffic management in Tagbilaran city.
