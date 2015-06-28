@@ -9,7 +9,7 @@ when they are late in their respective office that results to income deductions,
 Unproductive motorists idling, Emergency vehicles cannot respond immediately.
 Those are just a few problems encountered during traffic congestion in any other
 city. This made the researchers choose this study and help the city authorities
-in managing the traffic congestion problem in Tagbilaran City.
+in knowing the traffic congestion problem in Tagbilaran City.
 
 The researchers need a sufficient traffic detection system that will notify
 subscribers and the city traffic management to keep the vehicles flowing.
