@@ -15,7 +15,7 @@ pages:
   - 'Objective of the Study': 'chapter1/objectives-of-the-study.md'
   - 'Scope and Limitations of the Study': 'chapter1/scope-and-limitations-of-the-study.md'
 - 'Chapter 2 - Review on Related Literature':
-  - 'Review on Related Literature': 'chapter2/review-on-related-literature.md'
+  - 'Review on Related Literature': 'chapter2/review-of-related-literature.md'
 - 'Chapter 3 - Technical Background':
   - 'Algorithm': 'chapter3/algorithm.md'
   - 'Use Case Diagram': 'chapter3/usecase.md'
