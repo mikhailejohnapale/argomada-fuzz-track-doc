@@ -43,6 +43,6 @@ without noises, 3) Detect the extracted white pixels, 4) Establish a contour of 
 of blob and contour detection, 6) Select objects that satisfy both conditions, 7) Introduce reference lines on the road,
 8) Count the objects that cross the line, 9) Display the results.
 
-![alt text][fig2]
-[fig1]: fig2.jpg
+Figure 2
+![Figure 2](https://github.com/argomada/argomada-fuzz-track-doc/blob/master/docs/chapter2/fig2.png "Figure 2")
 Source: Kamilla Aliakhmet & Temirlan Zharkynbek (2008)
