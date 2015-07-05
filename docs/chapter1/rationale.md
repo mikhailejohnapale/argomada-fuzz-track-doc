@@ -5,8 +5,8 @@ hours. High traffic congestion happens when roads are highly used by vehicles
 that results to slower speeds and vehicle queuing. Traffic congestion directly
 affects the city and its residents. Problems like high carbon dioxide emissions
 that lead to a more polluted air, accumulated penalties that commuters receive
-when they are late in their respective office that results to income deductions,
-Unproductive motorists idling, Emergency vehicles cannot respond immediately.
+when they are late in their respective office that results to salary deductions,
+unproductive motorists idling, emergency vehicles cannot respond immediately.
 Those are just a few problems encountered during traffic congestion in any other
 city. This made the researchers choose this study and help the city authorities
 in knowing the traffic congestion problem in Tagbilaran City.
