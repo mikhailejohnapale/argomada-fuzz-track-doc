@@ -30,7 +30,8 @@ industries that adopt just-in-time production, distribution and inventory manage
 attain reliable just-in-time deliveries for enhanced productivity and competitiveness.
 
 ![alt text][fig1]
-[fig1]: fig1.png
+[fig1]: https://github.com/argomada/argomada-fuzz-track-doc/blob/master/docs/chapter2/fig1.png "Figure 1"
+
 Source: Adopted and modified from Pacione, (2005)
 
 Computer vision is used in a variety of ways. One usage of computer vision is using public CCTV cameras
