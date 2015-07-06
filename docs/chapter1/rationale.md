@@ -46,7 +46,7 @@ After collecting vehicle count and density using computer vision a post process 
 results and determine if the collected data from computer vision shows traffic congestion. The main
 algorithm used in the post process is the Fuzzy Logic algorithm. <sup>8</sup> Fuzzy logic algorithm
 by definition is just an approach to computing based on 'degrees of truth'. Fuzzy logic implementation
-is very common on various traffic control systems. Fuzzy logic accepts fuzzy inputs because a vehicle
+is very common on various traffic control systems. Fuzzy logic has rule based classification because a vehicle
 may stop anytime and it does not mean it is experiencing traffic congestion, various factors are included
 like density of the vehicles compared to the density of the road, speed of vehicles, vehicle count and more.
 The proposed traffic detection system is based entirely in computer vision converged with fuzzy logic.
@@ -56,6 +56,9 @@ the city residents or any person who wants to know traffic conditions in a parti
 user will be notified through a text message. This will allow the people present in the city
 or people who are inbound in the city to avoid a particular road experiencing traffic congestion. This will
 improve the city's driving experience and avoid traffic congestions in the future.
+
+The main reason of doing this project despite the presence of other systems is the need of it in Tagbilaran
+City. Data today is very indispensable, traffic data is stagnant because of manual observations
 
 
 ---
