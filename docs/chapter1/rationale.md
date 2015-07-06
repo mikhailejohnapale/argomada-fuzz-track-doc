@@ -76,34 +76,34 @@ system may offer but the proposed system will contribute radically on the econom
 
 ---
 
-<sup>1</sup> Traffic congestion
-
-Source: https://en.wikipedia.org/wiki/Traffic_congestion Viewed: June 17, 2015
+<sup>1</sup> Traffic congestion  
+Source: https://en.wikipedia.org/wiki/Traffic_congestion  
+Viewed: June 17, 2015
 
 <sup>2</sup> An introduction to the Department for Transport’s road congestion statistics
+Source: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/230433/an-introduction-to-dft-congestion-statistics.pdf  
+Viewed: July 6, 2015
 
-Source: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/230433/an-introduction-to-dft-congestion-statistics.pdf Viewed: July 6, 2015
+<sup>3</sup> China traffic jam stretches 'nine days, 100km'  
+Source: http://www.bbc.com/news/world-asia-pacific-11062708  
+Viewed: July 6, 2015
 
-<sup>3</sup> China traffic jam stretches 'nine days, 100km'
+<sup>4</sup> These Cities Have The Worst Traffic in the World, Says a New Index  
+Source: http://time.com/3695068/worst-cities-traffic-jams  
+Viewed: July 6, 2015
 
-Source: http://www.bbc.com/news/world-asia-pacific-11062708 Viewed: July 6, 2015
+<sup>5</sup> TomTom Traffic Index Measuring congestion worldwide  
+Source: http://www.tomtom.com/en_gb/trafficindex/#/  
+Viewed: July 6, 2015
 
-<sup>4</sup> These Cities Have The Worst Traffic in the World, Says a New Index
+<sup>6</sup> Mayor Yap seeks MMDA’s assistance  
+Source: http://www.tagbilaran.gov.ph/news/mayor-yap-seeks-mmdas-assistance/  
+Viewed: June 18, 2015
 
-Source: http://time.com/3695068/worst-cities-traffic-jams Viewed: July 6, 2015
+<sup>7</sup> WITHOUT SIDEWALKS WE CANNOT SOLVE THE TRAFFIC PROBLEM  
+Source: http://boholchronicle.com.ph/2015/04/05/without-sidewalks-we-cannot-solve-the-traffic-problem  
+Viewed: June 18, 2015
 
-<sup>5</sup> TomTom Traffic Index Measuring congestion worldwide
-
-Source: http://www.tomtom.com/en_gb/trafficindex/#/ Viewed: July 6, 2015
-
-<sup>6</sup> Mayor Yap seeks MMDA’s assistance
-
-Source: http://www.tagbilaran.gov.ph/news/mayor-yap-seeks-mmdas-assistance/ Viewed: June 18, 2015
-
-<sup>7</sup> WITHOUT SIDEWALKS WE CANNOT SOLVE THE TRAFFIC PROBLEM
-
-Source: http://boholchronicle.com.ph/2015/04/05/without-sidewalks-we-cannot-solve-the-traffic-problem Viewed: June 18, 2015
-
-<sup>8</sup> Fuzzy Logic
-
-Source: http://whatis.techtarget.com/definition/fuzzy-logic Viewed: July 6, 2015
+<sup>8</sup> Fuzzy Logic  
+Source: http://whatis.techtarget.com/definition/fuzzy-logic  
+Viewed: July 6, 2015
