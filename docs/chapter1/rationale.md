@@ -51,7 +51,11 @@ may stop anytime and it does not mean it is experiencing traffic congestion, var
 like density of the vehicles compared to the density of the road, speed of vehicles, vehicle count and more.
 The proposed traffic detection system is based entirely in computer vision converged with fuzzy logic.
 The proposed system will provide data about traffic conditions in the city, this will also help the local
-traffic authorities to formulate traffic solutions.
+traffic authorities to formulate traffic solutions. The proposed system also has a register feature for
+the city residents or any person who wants to know traffic conditions in a particular road. The registered
+user will be notified through a text message. This will allow the people present in the city
+or people who are inbound in the city to avoid a particular road experiencing traffic congestion. This will
+improve the city's driving experience and avoid traffic congestions in the future.
 
 
 ---
