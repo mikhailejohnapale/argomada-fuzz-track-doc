@@ -1,5 +1,11 @@
 # Review of Related Literature
 
+The researchers reviewed and studied the following topics to further understand the approach to be
+used in solving the traffic congestion problem; Current situation of traffic congestion in Tagbilaran City,
+effects of traffic congestion, computer vision implementations to resolve traffic congestion and use of
+fuzzy logic algorithms used in traffic control systems.
+
+The first study is about the current observable traffic congestion status of Tagbilaran City.
 Tagbilaran city's traffic congestion problem is getting worser each year. There are many attempted
 solutions regarding the problem but none of them worked. The researchers investigated the current
 traffic situation of the city and learned the following; The traffic lights in the city is not
