@@ -58,7 +58,10 @@ or people who are inbound in the city to avoid a particular road experiencing tr
 improve the city's driving experience and avoid traffic congestions in the future.
 
 The main reason of doing this project despite the presence of other systems is the need of it in Tagbilaran
-City. Data today is very indispensable, traffic data is stagnant because of manual observations
+City. Data today is very indispensable, traffic data is stagnant because of manual observations not primarily
+used in quantification. This data accumulated will eventually be very important for traffic engineers or
+researchers who want to study the traffic situation in the city. If they have the data to study, they can
+simulate traffic in a recorded date and observe the behavior.
 
 
 ---
