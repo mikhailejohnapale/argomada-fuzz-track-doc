@@ -3,7 +3,7 @@
 Everyone of us wakes up in the morning and go to our respective offices or schools.
 The next thing you do not want is a traffic congestion problem that slows you down
 the road and making you wait for hours. The researchers need to define first what is
-Traffic congestion in order to know the problem. <sup>1</sup> Traffic congestion is a
+traffic congestion in order to know the problem. <sup>1</sup> Traffic congestion is a
 condition on road networks that happen when an increase of vehicle use exceeds it
 intended usage. Another definition is <sup>2</sup> the way in which vehicles interact
 to impede each other's progress. Now that they have defined traffic congestion. They
