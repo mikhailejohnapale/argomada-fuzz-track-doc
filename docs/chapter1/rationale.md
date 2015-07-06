@@ -28,7 +28,7 @@ following; <sup>6</sup> The City Mayor seeks assistance from the national govern
 solve traffic problems in the City, <sup>7</sup> A study has been conducted in the city
 and determined the main cause of the traffic problem is the lack or absence of sidewalks
 in the streets. Clearly the City is facing a problem that will eventually escalate if ignored.
-The is why the researchers have chosen their own city to conduct the research.
+This is why the researchers have chosen their own city to conduct the research.
 
 The researchers need a effective traffic detection system that will eventually notify people
 when a particular street is experiencing traffic congestion. To fully understand what the traffic
