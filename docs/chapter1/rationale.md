@@ -30,6 +30,20 @@ and determined the main cause of the traffic problem is the lack or absence of s
 in the streets. Clearly the City is facing a problem that will eventually escalate if ignored.
 The is why the researchers have chosen their own city to conduct the research.
 
+The researchers need a effective traffic detection system that will eventually notify people
+when a particular street is experiencing traffic congestion. To fully understand what the traffic
+detection system will do and how will it work, some technologies are used to aid us in our
+research. One of this technologies is called Computer Vision. Computer Vision is simply a
+technology that depends heavily on images and converts this images to large arrays of positive integers.
+Imagine a matrix, the matrix has a 2 by 2 dimension. Each element in the matrix is a positive integer,
+that integer represents the color of that pixel. Images may vary in size or resolution so does the
+matrix. The matrix represent only a single image, a video stream consists many images and converts
+those images to a matrix one by one. After the conversion from image to matrix, mathematical models
+are used to know if there are changes in the current matrix from the previous matrix. This is what
+computer vision does. Computer vision will detect moving objects in the images through video cameras.
+Computer vision is used as the primary technology used in detecting moving vehicles in the road.
+
+
 ---
 
 <sup>1</sup> Traffic congestion
