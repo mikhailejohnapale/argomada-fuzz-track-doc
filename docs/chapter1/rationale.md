@@ -10,4 +10,5 @@ of heavy traffic, they have to wait for 9 days before they can resume normal tra
 
 ---
 <sup>1</sup> China traffic jam stretches 'nine days, 100km'
+
 Source: http://www.bbc.com/news/world-asia-pacific-11062708 Viewed: July 6, 2015
