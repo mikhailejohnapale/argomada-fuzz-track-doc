@@ -61,7 +61,9 @@ The main reason of doing this project despite the presence of other systems is t
 City. Data today is very indispensable, traffic data is stagnant because of manual observations not primarily
 used in quantification. This data accumulated will eventually be very important for traffic engineers or
 researchers who want to study the traffic situation in the city. If they have the data to study, they can
-simulate traffic in a recorded date and observe the behavior.
+simulate traffic in a recorded date and observe the behavior. The researchers intend to monitor also the
+traffic notification system proposed to observe its effect on its subscribers and the traffic behavior in
+the city.
 
 
 ---
