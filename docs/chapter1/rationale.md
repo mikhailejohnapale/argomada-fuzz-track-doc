@@ -84,7 +84,7 @@ Source: http://www.tomtom.com/en_gb/trafficindex/#/ Viewed: July 6, 2015
 
 Source: http://www.tagbilaran.gov.ph/news/mayor-yap-seeks-mmdas-assistance/ Viewed: June 18, 2015
 
-<sup>7</sup>
+<sup>7</sup> WITHOUT SIDEWALKS WE CANNOT SOLVE THE TRAFFIC PROBLEM
 
 Source: http://boholchronicle.com.ph/2015/04/05/without-sidewalks-we-cannot-solve-the-traffic-problem Viewed: June 18, 2015
 
