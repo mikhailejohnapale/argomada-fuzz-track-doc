@@ -22,4 +22,5 @@ Source: http://www.bbc.com/news/world-asia-pacific-11062708 Viewed: July 6, 2015
 Source: http://time.com/3695068/worst-cities-traffic-jams Viewed: July 6, 2015
 
 <sup>3</sup> TomTom Traffic Index Measuring congestion worldwide
+
 Source: http://www.tomtom.com/en_gb/trafficindex/#/ Viewed: July 6, 2015
