@@ -8,25 +8,33 @@ condition on road networks that happen when an increase of vehicle use exceeds i
 intended usage. Another definition is <sup>2</sup> the way in which vehicles interact
 to impede each other's progress. Now that they have defined traffic congestion. They
 know its primary cause and that is the use of vehicles impeding each other in the road.
-Traffic congestion itself is not a problem, its effects is the real problem. <sup>2</sup>
-Effects caused by traffic congestions are longer journey times, increased queueing at
-junctions or bottlenecks, increase in vehicles stopping and starting all the time, more
+Traffic congestion itself is not a problem, its effects are the real problem. <sup>2</sup>
+Effects caused by traffic congestions are longer journey times, increased queuing at
+junctions or bottlenecks, increase in vehicles stopping and starting, more
 time spent stationary and less predictable journey times. Traffic congestion's definition,
 cause and effect has been mentioned, the next thing to do is where do traffic congestion
 happen almost of the time. Cities are likely the places where traffic
 congestion occur most of the time. Even large cities suffer from traffic congestion.
-Online sources of cities which are suffering from traffic congestion are the following;
+On-line sources of cities which are suffering from traffic congestion are the following;
 <sup>3</sup> Beijing inbound vehicles are in a queue for about 100 kilometers because
 of heavy traffic, they have to wait for 9 days before they can resume normal traffic flow.
 <sup>4</sup> Jakarta have the worst traffic in the world according to motor oil company
 Castrol. <sup>5</sup> Istanbul is ranked first in the world regarding traffic congestion
 with a congestion level of 58% as of July 6, 2015 according to a traffic index website.
+The researcher's are situated in the City of Tagbilaran and the City cannot escape what
+bigger cities are facing about traffic congestion problem. The researchers have discovered
+on-line sources which talks about the traffic congestion in the City. The excerpts are the
+following; <sup>6</sup> The City Mayor seeks assistance from the national government to
+solve traffic problems in the City, <sup>7</sup> A study has been conducted in the city
+and determined the main cause of the traffic problem is the lack or absence of sidewalks
+in the streets. Clearly the City is facing a problem that will eventually escalate if ignored.
+The is why the researchers have chosen their own city to conduct the research.
 
 ---
 
 <sup>1</sup> Traffic congestion
 
-Source: https://en.wikipedia.org/wiki/Traffic_congestion Viewed: July 6, 2015
+Source: https://en.wikipedia.org/wiki/Traffic_congestion Viewed: June 17, 2015
 
 <sup>2</sup> An introduction to the Department for Transport’s road congestion statistics
 
@@ -43,3 +51,10 @@ Source: http://time.com/3695068/worst-cities-traffic-jams Viewed: July 6, 2015
 <sup>5</sup> TomTom Traffic Index Measuring congestion worldwide
 
 Source: http://www.tomtom.com/en_gb/trafficindex/#/ Viewed: July 6, 2015
+
+<sup>6</sup> Mayor Yap seeks MMDA’s assistance
+
+Source: http://www.tagbilaran.gov.ph/news/mayor-yap-seeks-mmdas-assistance/ Viewed: June 18, 2015
+
+<sup>7</sup>
+Source: http://boholchronicle.com.ph/2015/04/05/without-sidewalks-we-cannot-solve-the-traffic-problem Viewed: June 18, 2015
