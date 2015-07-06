@@ -65,6 +65,14 @@ simulate traffic in a recorded date and observe the behavior. The researchers in
 traffic notification system proposed to observe its effect on its subscribers and the traffic behavior in
 the city.
 
+Possible benefits of this project are the following. The proposed system will offer huge amount of data to
+be processed. This amount of data will be of use to traffic engineers, researchers, scholars and other related
+studies regarding traffic in the city and its behavior. Subscribers will enjoy driving experiences in the city
+if they have actual traffic notifications regarding roads that suffer from congestion. The proposed system is
+primarily focused in congestion detection and may be a base system for future traffic control systems. Business
+that rely on land transportation may avail the notification service and the proposed system may be scaled out
+in the future for notification purposes alone. The researchers can't enumerate all possible benefits the proposed
+system may offer but the proposed system will contribute radically on the economic growth of Tagbilaran City.
 
 ---
 
