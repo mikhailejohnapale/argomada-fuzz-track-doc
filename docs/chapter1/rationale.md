@@ -42,6 +42,16 @@ those images to a matrix one by one. After the conversion from image to matrix, 
 are used to know if there are changes in the current matrix from the previous matrix. This is what
 computer vision does. Computer vision will detect moving objects in the images through video cameras.
 Computer vision is used as the primary technology used in detecting moving vehicles in the road.
+After collecting vehicle count and density using computer vision a post process must collect its
+results and determine if the collected data from computer vision shows traffic congestion. The main
+algorithm used in the post process is the Fuzzy Logic algorithm. <sup>8</sup> Fuzzy logic algorithm
+by definition is just an approach to computing based on 'degrees of truth'. Fuzzy logic implementation
+is very common on various traffic control systems. Fuzzy logic accepts fuzzy inputs because a vehicle
+may stop anytime and it does not mean it is experiencing traffic congestion, various factors are included
+like density of the vehicles compared to the density of the road, speed of vehicles, vehicle count and more.
+The proposed traffic detection system is based entirely in computer vision converged with fuzzy logic.
+The proposed system will provide data about traffic conditions in the city, this will also help the local
+traffic authorities to formulate traffic solutions.
 
 
 ---
@@ -71,4 +81,9 @@ Source: http://www.tomtom.com/en_gb/trafficindex/#/ Viewed: July 6, 2015
 Source: http://www.tagbilaran.gov.ph/news/mayor-yap-seeks-mmdas-assistance/ Viewed: June 18, 2015
 
 <sup>7</sup>
+
 Source: http://boholchronicle.com.ph/2015/04/05/without-sidewalks-we-cannot-solve-the-traffic-problem Viewed: June 18, 2015
+
+<sup>8</sup> Fuzzy Logic
+
+Source: http://whatis.techtarget.com/definition/fuzzy-logic Viewed: July 6, 2015
