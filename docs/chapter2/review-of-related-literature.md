@@ -26,7 +26,7 @@ OpenCV library is the leading open source computer vision and machine learning s
 that has more than 2500 optimized algorithms to recognize objects and motion in consecutive images <sup>2</sup>.
 OpenCV is used for heavy-lifting the detection process of the vehicles in the proposed system.
 
-The second study is entitled "Traffic Simulation System Based on Fuzzy Logic" by Mohammad A. Taha and Laheeb Ibrahim.
+The second study is entitled "Traffic Simulation System Based on Fuzzy Logic" by Mohammad A. Taha and Laheeb Ibrahim <sup>3</sup>.
 In this study the researchers made a traffic simulator which uses a fuzzy logic engine to compare and review results.
 Their system has a graphical user interface to physically see the intersection and simulate traffic from there. It
 has also included a graphical user interface for the fuzzy logic engine to manipulate input, output and fuzzy rules. They
@@ -40,8 +40,11 @@ data shows traffic congestion and will not create modules which will control tra
 
 ---
 
-<sup>1</sup> "Real-time Traffic Congestion Detection Based on Video Analysis"
+<sup>1</sup> "Real-time Traffic Congestion Detection Based on Video Analysis"  
 Source: http://www.joics.com/publishedpapers/2012_9_10_2907_2914.pdf Viewed: June 16, 2015
 
 <sup>2</sup> "About OpenCV"  
 Source: http://opencv.org/about.html Viewed: July 7, 2015
+
+<sup>3</sup> "Traffic Simulation System Based on Fuzzy Logic"  
+Source: http://www.sciencedirect.com/science/article/pii/S1877050912006758/pdf?md5=72a355f021b2ef8eebc01a7c9649feee&pid=1-s2.0-S1877050912006758-main.pdf Viewed: July 11, 2015
