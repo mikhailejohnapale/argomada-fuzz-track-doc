@@ -34,7 +34,7 @@ can test their system using a variety of test cases which simulate traffic and i
 simulation which runs for 60 minutes with different traffic flow for each test case. The fuzzy logic engine and fixed
 time controller was compared and shows better traffic flow on the fuzzy logic controlled traffic. The proposed system
 can be tested using values which came from a test case but the test case will be in the form of determining whether
-the values are correct when determining traffic congestion. The researcher will only detect and classify if the traffic
+the values are correct when determining traffic congestion. The researchers will only detect and classify if the traffic
 data shows traffic congestion and will not create modules which will control traffic.
 
 
