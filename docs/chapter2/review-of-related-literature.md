@@ -37,6 +37,17 @@ can be tested using values which came from a test case but the test case will be
 the values are correct when determining traffic congestion. The researchers will only detect and classify if the traffic
 data shows traffic congestion and will not create modules which will control traffic.
 
+The third study that is reviewed is entitled "AN INTELLIGENT TRAFFIC CONTROLLER BASED ON FUZZY LOGIC" by Bilal Ahmed Khan and
+Nai Shyan Lai <sup>4</sup>. The researchers in this study has a system that is very similar to our proposed system.
+They are utilizing fuzzy logic concepts and image processing techniques using OpenCV. The only difference is that they are 
+controlling simulated environment through a Peripheral Interface Controller (PIC) micro-controller to control traffic signals
+in a desired manner. Fuzzy logic is used in there study to prolong the green phase depending on the traffic flow. The actual
+fuzzy logic instructions are found in the micro-controller itself making it an autonomous system. The Fuzzy logic controller
+now receives the number of detected vehicles from the vision sensor with inexact data and produces a unique output for each
+scenario. The fuzzy logic design consists of six membership functions namely; zero, few, fewer, more, much and numerous.
+`If else` statements are used to perform relationships between the membership functions and 30 rules that is defined for
+possible scenarios for each traffic signal. 
+
 
 ---
 
@@ -47,4 +58,7 @@ Source: http://www.joics.com/publishedpapers/2012_9_10_2907_2914.pdf Viewed: Jun
 Source: http://opencv.org/about.html Viewed: July 7, 2015
 
 <sup>3</sup> "Traffic Simulation System Based on Fuzzy Logic"  
-Source: http://www.sciencedirect.com/science/article/pii/S1877050912006758/pdf?md5=72a355f021b2ef8eebc01a7c9649feee&pid=1-s2.0-S1877050912006758-main.pdf Viewed: July 11, 2015
+Source: http://www.sciencedirect.com/science/article/pii/S1877050912006758/pdf?md5=72a355f021b2ef8eebc01a7c9649feee&pid=1-s2.0-S1877050912006758-main.pdf Viewed: July 11, 2015  
+
+<sup>4</sup> "AN INTELLIGENT TRAFFIC CONTROLLER BASED ON FUZZY LOGIC"  
+Source: 
