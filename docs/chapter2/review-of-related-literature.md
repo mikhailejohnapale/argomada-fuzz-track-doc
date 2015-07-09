@@ -37,7 +37,7 @@ can be tested using values which came from a test case but the test case will be
 the values are correct when determining traffic congestion. The researchers will only detect and classify if the traffic
 data shows traffic congestion and will not create modules which will control traffic.
 
-The third study that is reviewed is entitled "AN INTELLIGENT TRAFFIC CONTROLLER BASED ON FUZZY LOGIC" by Bilal Ahmed Khan and
+The third study that is reviewed is entitled "An Intelligent Traffic Controller Based on Fuzzy Logic" by Bilal Ahmed Khan and
 Nai Shyan Lai <sup>4</sup>. The researchers in this study has a system that is very similar to our proposed system.
 They are utilizing fuzzy logic concepts and image processing techniques using OpenCV. The only difference is that they are 
 controlling simulated environment through a Peripheral Interface Controller (PIC) micro-controller to control traffic signals
