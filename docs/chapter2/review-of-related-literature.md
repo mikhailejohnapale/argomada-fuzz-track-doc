@@ -45,7 +45,7 @@ in a desired manner. Fuzzy logic is used in there study to prolong the green pha
 fuzzy logic instructions are found in the micro-controller itself making it an autonomous system. The Fuzzy logic controller
 now receives the number of detected vehicles from the vision sensor with inexact data and produces a unique output for each
 scenario. The fuzzy logic design consists of six membership functions namely; zero, few, fewer, more, much and numerous.
-`If else` statements are used to perform relationships between the membership functions and 30 rules that is defined for
+`If else` statements are used to perform relationships between the membership functions and defined 30 rules for
 possible scenarios for each traffic signal. 
 
 
