@@ -2,7 +2,7 @@
 
 This study aims to provide a solution to traffic 
 congestion by developing a Traffic congestion notification 
-system with the use of image processing concepts  and fuzzy algorithm.
+system with the use of image processing concepts,fuzzy algorithm and SMS technology.
 
 The specific objectives of the study are:
 
