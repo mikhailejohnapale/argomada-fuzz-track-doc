@@ -61,4 +61,4 @@ Source: http://opencv.org/about.html Viewed: July 7, 2015
 Source: http://www.sciencedirect.com/science/article/pii/S1877050912006758/pdf?md5=72a355f021b2ef8eebc01a7c9649feee&pid=1-s2.0-S1877050912006758-main.pdf Viewed: July 11, 2015  
 
 <sup>4</sup> "An Intelligent Traffic Controller Based on Fuzzy Logic"  
-Source: http://sdiwc.net/digital-library/download.php?id=00000573.pdf  
+Source: http://sdiwc.net/digital-library/download.php?id=00000573.pdf  Viewed: July 11, 2015  
