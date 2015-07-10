@@ -1,78 +1,40 @@
 # Rationale
 
-Everyone of us wakes up in the morning and go to our respective offices or schools.
-The next thing you do not want is a traffic congestion problem that slows you down
-the road and making you wait for hours. The researchers need to define first what is
-traffic congestion in order to know the problem. <sup>1</sup> Traffic congestion is a
-condition on road networks that happen when an increase of vehicle use exceeds its
-intended usage. Another definition is <sup>2</sup> the way in which vehicles interact
-to impede each other's progress. Now that they have defined traffic congestion. They
-know its primary cause and that is the use of vehicles impeding each other in the road.
-Traffic congestion itself is not a problem, its effects are the real problem. <sup>2</sup>
-Effects caused by traffic congestions are longer journey times, increased queuing at
-junctions or bottlenecks, increase in vehicles stopping and starting, more
-time spent stationary and less predictable journey times. Traffic congestion's definition,
-cause and effect has been mentioned, the next thing to do is where do traffic congestion
-happen almost of the time. Cities are likely the places where traffic
-congestion occur most of the time. Even large cities suffer from traffic congestion.
-On-line sources of cities which are suffering from traffic congestion are the following;
-<sup>3</sup> Beijing inbound vehicles are in a queue for about 100 kilometers because
-of heavy traffic, they have to wait for 9 days before they can resume normal traffic flow.
-<sup>4</sup> Jakarta have the worst traffic in the world according to motor oil company
-Castrol. <sup>5</sup> Istanbul is ranked first in the world regarding traffic congestion
-with a congestion level of 58% as of July 6, 2015 according to a traffic index website.
-The researcher's are situated in the City of Tagbilaran and the City cannot escape what
-bigger cities are facing about traffic congestion problem. The researchers have discovered
-on-line sources which talks about the traffic congestion in the City. The excerpts are the
-following; <sup>6</sup> The City Mayor seeks assistance from the national government to
-solve traffic problems in the City, <sup>7</sup> A study has been conducted in the city
-and determined the main cause of the traffic problem is the lack or absence of sidewalks
-in the streets. Clearly the City is facing a problem that will eventually escalate if ignored.
-This is why the researchers have chosen their own city to conduct the research.
+Traffic congestion is a very common problem mostly experienced in cities. <sup>1</sup>
+By definition, it is a condition on road networks that happen when an increase of vehicle use exceeds its
+intended usage. <sup>2</sup> In Beijing inbound vehicles are in a queue for about 100 kilometers because
+of heavy traffic and they have to wait for nine days before they can resume normal traffic flow.
+<sup>3</sup> Jakarta have the worst traffic in the world according to motor oil company
+Castrol. <sup>4</sup> Istanbul is ranked first in the world regarding traffic congestion
+with a congestion level of 58% as of July 6, 2015 according to a traffic index website tomtom.com.
+In the Philippines, the worst traffic is experienced in Metro Manila, being the center of commerce
+and industry. Traffic congestion does not excuse small cities like Tagbilaran City, Bohol. This is
+evidenced by <sup>5</sup> the City Mayor seeking assistance from the national government to
+solve traffic problems in the City, this prompted the researchers to dwell more on the traffic
+congestion problem.
 
-The researchers need a effective traffic detection system that will eventually notify people
-when a particular street is experiencing traffic congestion. To fully understand what the traffic
-detection system will do and how will it work, some technologies are used to aid us in our
-research. One of this technologies is called Computer Vision. Computer Vision is simply a
-technology that depends heavily on images and converts this images to large arrays of positive integers.
-Imagine a matrix, the matrix has a 2 by 2 dimension. Each element in the matrix is a positive integer,
-that integer represents the color of that pixel. Images may vary in size or resolution so does the
-matrix. The matrix represent only a single image, a video stream consists many images and converts
-those images to a matrix one by one. After the conversion from image to matrix, mathematical models
-are used to know if there are changes in the current matrix from the previous matrix. This is what
-computer vision does. Computer vision will detect moving objects in the images through video cameras.
-Computer vision is used as the primary technology used in detecting moving vehicles in the road.
-After collecting vehicle count and density using computer vision a post process must collect its
-results and determine if the collected data from computer vision shows traffic congestion. The main
-algorithm used in the post process is the Fuzzy Logic algorithm. <sup>8</sup> Fuzzy logic algorithm
-by definition is just an approach to computing based on 'degrees of truth'. Fuzzy logic implementation
-is very common on various traffic control systems. Fuzzy logic has rule based classification because a vehicle
-may stop anytime and it does not mean it is experiencing traffic congestion, various factors are included
-like density of the vehicles compared to the density of the road, speed of vehicles, vehicle count and more.
-The proposed traffic detection system is based entirely in computer vision converged with fuzzy logic.
-The proposed system will provide data about traffic conditions in the city, this will also help the local
-traffic authorities to formulate traffic solutions. The proposed system also has a register feature for
-the city residents or any person who wants to know traffic conditions in a particular road. The registered
-user will be notified through a text message. This will allow the people present in the city
-or people who are inbound in the city to avoid a particular road experiencing traffic congestion. This will
-improve the city's driving experience and avoid traffic congestions in the future.
+With the advent of technology used to solve problems and issues, computer vision is a common
+technology used in traffic situations. It is used in detecting moving vehicles in the road,
+collecting vehicle count, density and processing results. Using this concept, a system will be 
+developed and results will be processed using the fuzzy logic algorithm. <sup>6</sup> Fuzzy 
+logic algorithm by definition is an approach to computing based on `degrees of truth`.
+Fuzzy logic implementation is very common on various traffic control systems. The said algorithm
+will determine a traffic situation from the results passed on after implementing computer vision.
+
+Since traffic congestion happens when there's an increase of vehicles use exceeding the roads
+intended usage, there must be a mechanism of informing mobile vehicle drivers to avoid such
+road, so as not to congest it. Thus, the proposed traffic congestion notification system. It
+is the integration of computer vision with fuzz logic and SMS technology. A registered user
+will be notified through a text message about traffic conditions in the city. This will allow the 
+people present in the city or people who are inbound the city to avoid a particular road
+experiencing traffic congestion. This will improve the city's driving experience and avoid 
+traffic congestions in the future.
 
 The main reason of doing this project despite the presence of other systems is the need of it in Tagbilaran
 City. Data today is very indispensable, traffic data is stagnant because of manual observations not primarily
 used in quantification. This data accumulated will eventually be very important for traffic engineers or
 researchers who want to study the traffic situation in the city. If they have the data to study, they can
-simulate traffic in a recorded date and observe the behavior. The researchers intend to monitor also the
-traffic notification system proposed to observe its effect on its subscribers and the traffic behavior in
-the city.
-
-Possible benefits of this project are the following. The proposed system will offer huge amount of data to
-be processed. This amount of data will be of use to traffic engineers, researchers, scholars and other related
-studies regarding traffic in the city and its behavior. Subscribers will enjoy driving experiences in the city
-if they have actual traffic notifications regarding roads that suffer from congestion. The proposed system is
-primarily focused in congestion detection and may be used as a base system for future traffic control systems. Business
-that rely on land transportation may avail the notification service and the proposed system may be scaled out
-in the future for notification purposes alone. The researchers can't enumerate all possible benefits the proposed
-system may offer but the proposed system will contribute radically on the economic growth of Tagbilaran City.
+simulate traffic in a recorded date and observe the behavior.
 
 ---
 
@@ -80,30 +42,22 @@ system may offer but the proposed system will contribute radically on the econom
 Source: https://en.wikipedia.org/wiki/Traffic_congestion  
 Viewed: June 17, 2015
 
-<sup>2</sup> An introduction to the Department for Transport’s road congestion statistics
-Source: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/230433/an-introduction-to-dft-congestion-statistics.pdf  
-Viewed: July 6, 2015
-
-<sup>3</sup> China traffic jam stretches 'nine days, 100km'  
+<sup>2</sup> China traffic jam stretches 'nine days, 100km'  
 Source: http://www.bbc.com/news/world-asia-pacific-11062708  
 Viewed: July 6, 2015
 
-<sup>4</sup> These Cities Have The Worst Traffic in the World, Says a New Index  
+<sup>3</sup> These Cities Have The Worst Traffic in the World, Says a New Index  
 Source: http://time.com/3695068/worst-cities-traffic-jams  
 Viewed: July 6, 2015
 
-<sup>5</sup> TomTom Traffic Index Measuring congestion worldwide  
+<sup>4</sup> TomTom Traffic Index Measuring congestion worldwide  
 Source: http://www.tomtom.com/en_gb/trafficindex/#/  
 Viewed: July 6, 2015
 
-<sup>6</sup> Mayor Yap seeks MMDA’s assistance  
+<sup>5</sup> Mayor Yap seeks MMDA’s assistance  
 Source: http://www.tagbilaran.gov.ph/news/mayor-yap-seeks-mmdas-assistance/  
 Viewed: June 18, 2015
 
-<sup>7</sup> WITHOUT SIDEWALKS WE CANNOT SOLVE THE TRAFFIC PROBLEM  
-Source: http://boholchronicle.com.ph/2015/04/05/without-sidewalks-we-cannot-solve-the-traffic-problem  
-Viewed: June 18, 2015
-
-<sup>8</sup> Fuzzy Logic  
+<sup>6</sup> Fuzzy Logic  
 Source: http://whatis.techtarget.com/definition/fuzzy-logic  
 Viewed: July 6, 2015
