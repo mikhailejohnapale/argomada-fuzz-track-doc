@@ -6,7 +6,7 @@ intended usage. <sup>2</sup> In Beijing inbound vehicles are in a queue for abou
 of heavy traffic and they have to wait for nine days before they can resume normal traffic flow.
 <sup>3</sup> Jakarta have the worst traffic in the world according to motor oil company
 Castrol. <sup>4</sup> Istanbul is ranked first in the world regarding traffic congestion
-with a congestion level of 58% as of July 6, 2015 according to a traffic index website tomtom.com.
+with a congestion level of 58% as of July 6, 2015 according to tomtom.com a traffic index website.
 In the Philippines, the worst traffic is experienced in Metro Manila, being the center of commerce
 and industry. Traffic congestion does not excuse small cities like Tagbilaran City, Bohol. This is
 evidenced by <sup>5</sup> the City Mayor seeking assistance from the national government to
