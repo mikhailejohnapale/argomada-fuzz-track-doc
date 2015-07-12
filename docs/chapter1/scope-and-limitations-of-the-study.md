@@ -1,21 +1,18 @@
 # Scope and Limitations of the Study
 
-**Scope**
+The main goal of the study is the development of a traffic 
+congestion notification system. It will make use of computer 
+vision concepts, results of which will be fed into the fuzzy 
+logic algorithm, which will determine whether there's no 
+traffic, there's low traffic, there's moderate traffic, or 
+there's heavy traffic. These results will be delivered to 
+registered subscribers through SMS technology. A website of 
+the system is available on the internet for users  to 
+subscribe, and keeps updated on the traffic.
 
-The study uses the fuzzy logic as its structure that is mostly 
-used in traffic control systems. The researchers, using OpenCV 
-(Open Computer Vision), to detect incoming vehicles on a one 
-way road. The system would detect if the one way road has a heavy, 
-moderate or low traffic congestion of vehicles and notifying to its 
-subscribers.
 
-
-**Limitations**
-
-The study could only focus on a one way road. The video sensors
-must be strategically placed in a position in which the vehicles 
-seen must not be overlapping with each other due to the researchers 
-using background subtraction as the main image processing technique 
-through OpenCV. The system cannot provide live video streams of 
-the road because of its limited bandwidth for uploading huge 
-streams of data.
+Traffic data that will be used to feed the system will 
+come from the City Government of Tagbilaran City and 
+T.a.R.S.I.E.R 117. This means, video feeds are used as 
+sample inputs and not live stream video of traffic. 
+Furthurmore, only one way roads will be covered.
