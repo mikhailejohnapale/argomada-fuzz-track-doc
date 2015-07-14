@@ -10,25 +10,25 @@ with a congestion level of 58% as of July 6, 2015 according to tomtom.com a traf
 In the Philippines, the worst traffic is experienced in Metro Manila, being the center of commerce
 and industry. Traffic congestion does not excuse small cities like Tagbilaran City, Bohol. This is
 evidenced by <sup>5</sup> the City Mayor seeking assistance from the national government to
-solve traffic problems in the City, this prompted the researchers to dwell more on the traffic
+solve traffic problems in the City. This prompted the researchers to dwell more on the traffic
 congestion problem.
 
 With the advent of technology used to solve problems and issues, computer vision is a common
 technology used in traffic situations. It is used in detecting moving vehicles in the road,
-collecting vehicle count, density and processing results. Using this concept, a system will be 
-developed and results will be processed using the fuzzy logic algorithm. <sup>6</sup> Fuzzy 
+collecting vehicle count and density and processing results. Using this concept, a system will be
+developed and results will be processed using the fuzzy logic algorithm. <sup>6</sup> Fuzzy
 logic algorithm by definition is an approach to computing based on `degrees of truth`.
 Fuzzy logic implementation is very common on various traffic control systems. The said algorithm
 will determine a traffic situation from the results passed on after implementing computer vision.
 
-Since traffic congestion happens when there's an increase of vehicles use exceeding the roads
+Since traffic congestion happens when there's an increase of vehicle use which exceeds the road's
 intended usage, there must be a mechanism of informing mobile vehicle drivers to avoid such
 road, so as not to congest it. Thus, the proposed traffic congestion notification system. It
-is the integration of computer vision with fuzz logic and SMS technology. A registered user
-will be notified through a text message about traffic conditions in the city. This will allow the 
-people present in the city or people who are inbound the city to avoid a particular road
-experiencing traffic congestion. This will improve the city's driving experience and avoid 
-traffic congestions in the future.
+is the integration of computer vision with fuzzy logic for traffic congestion detection and SMS and
+web-based technologies for notification. A registered user will be notified through a text message
+about traffic conditions in the city. This will allow the people present in the city or people who
+are inbound the city to avoid a particular road experiencing traffic congestion. This will improve
+the city's driving experience and avoid traffic congestions in the future.
 
 The main reason of doing this project despite the presence of other systems is the need of it in Tagbilaran
 City. Data today is very indispensable, traffic data is stagnant because of manual observations not primarily
