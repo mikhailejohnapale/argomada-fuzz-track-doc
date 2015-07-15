@@ -43,14 +43,18 @@ notify users using SMS to avoid traffic congested roads.
 
 ---
 
-<sup>1</sup> "Real-time Traffic Congestion Detection Based on Video Analysis"  
-Source: http://www.joics.com/publishedpapers/2012_9_10_2907_2914.pdf Viewed: June 16, 2015
+<sup>1</sup> Shan Hu, Jiansheng Wu, Ling Xu (2012), 9: 10,  2907–2914, "Real-time Traffic Congestion Detection Based on Video Analysis"  
+Retrieved from http://www.joics.com/publishedpapers/2012_9_10_2907_2914.pdf  
+Viewed: June 16, 2015  
 
 <sup>2</sup> "About OpenCV"  
-Source: http://opencv.org/about.html Viewed: July 7, 2015
+Retrieved from http://opencv.org/about.html
+Viewed: July 7, 2015
 
-<sup>3</sup> "Traffic Simulation System Based on Fuzzy Logic"  
-Source: http://www.sciencedirect.com/science/article/pii/S1877050912006758/pdf?md5=72a355f021b2ef8eebc01a7c9649feee&pid=1-s2.0-S1877050912006758-main.pdf Viewed: July 11, 2015  
+<sup>3</sup> Mohammad A. Taha and Laheeb Ibrahim (2012), 12, 356–360, "Traffic Simulation System Based on Fuzzy Logic"  
+Retrieved from http://www.sciencedirect.com/science/article/pii/S1877050912006758/pdf?md5=72a355f021b2ef8eebc01a7c9649feee&pid=1-s2.0-S1877050912006758-main.pdf
+Viewed: July 11, 2015  
 
-<sup>4</sup> "An Intelligent Traffic Controller Based on Fuzzy Logic"  
-Source: http://sdiwc.net/digital-library/download.php?id=00000573.pdf  Viewed: July 11, 2015  
+<sup>4</sup> Bilal Ahmed Khan and Nai Shyan Lai, 89-93, "An Intelligent Traffic Controller Based on Fuzzy Logic"  
+Retrieved from http://sdiwc.net/digital-library/download.php?id=00000573.pdf
+Viewed: July 11, 2015  
