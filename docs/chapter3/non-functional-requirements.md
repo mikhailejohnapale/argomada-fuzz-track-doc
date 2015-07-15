@@ -7,12 +7,14 @@ testing.
 
 DEPLOYMENT
 | Processor     | 4th Generation Intel Core i3-4030U (1.90GHz 1600MHz 3MB) |
-| RAM Size (GB) | 1GB DDR3
+| Disk Space    | 20 GB                                                    |
+| RAM Size (GB) | 1GB DDR3                                                 |
 
 DEVELOPMENT
 | Operating System | Ubuntu Desktop 14.04.2 LTS (Trusty Tahr) x64             |
 | Processor        | 4th Generation Intel Core i3-4030U (1.90GHz 1600MHz 3MB) |
 | RAM Size (GB)    | 16GB PC3-12800 DDR3L SDRAM 1600 MHz                      |
+| Disk Space       | 512 GB                                                   |
 
 Nature of the System:
 Traffic Congestion Notification System is an online application
