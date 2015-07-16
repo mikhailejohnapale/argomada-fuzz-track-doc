@@ -6,9 +6,10 @@ system. These specifications are identified through rigid research and
 testing.
 
 DEPLOYMENT
-| Processor     | 4th Generation Intel Core i3-4030U (1.90GHz 1600MHz 3MB) |
-| Disk Space    | 20 GB                                                    |
-| RAM Size (GB) | 1GB DDR3                                                 |
+| Operating System  | Ubuntu Server 14.04.2 LTS (Trusty Tahr) x64             |
+| Processor         | 4th Generation Intel Core i3-4030U (1.90GHz 1600MHz 3MB) |
+| Disk Space        | 20 GB                                                    |
+| RAM Size (GB)     | 1GB DDR3                                                 |
 
 DEVELOPMENT
 | Operating System | Ubuntu Desktop 14.04.2 LTS (Trusty Tahr) x64             |
