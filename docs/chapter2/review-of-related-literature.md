@@ -18,7 +18,7 @@ The proposed system will use OpenCV (Open Source Computer Vision Library)
 to perform background difference and perform morphological operation.
 OpenCV is used for the detection process of the vehicles in the proposed system.
 
-The second study is entitled "Traffic Simulation System Based on Fuzzy Logic" by Mohammad A. Taha and Laheeb Ibrahim <sup>3</sup>.
+The second study is entitled "Traffic Simulation System Based on Fuzzy Logic" by Mohammad A. Taha and Laheeb Ibrahim <sup>2</sup>.
 In this study the researchers made a traffic simulator which uses a fuzzy logic engine to compare and review results.
 Their system has a graphical user interface to physically see the intersection and simulate traffic from there. It
 has also included a graphical user interface for the fuzzy logic engine to manipulate input, output and fuzzy rules. They
@@ -30,7 +30,7 @@ the values are correct when determining traffic congestion. The researchers will
 data shows traffic congestion and will not create modules which will control traffic.
 
 The third study that is reviewed is entitled "An Intelligent Traffic Controller Based on Fuzzy Logic" by Bilal Ahmed Khan and
-Nai Shyan Lai <sup>4</sup>. The researchers in this study has a system that is very similar to the proposed system.
+Nai Shyan Lai <sup>3</sup>. The researchers in this study has a system that is very similar to the proposed system.
 They are utilizing fuzzy logic concepts and image processing techniques using OpenCV. They are 
 controlling the simulated environment through a Peripheral Interface Controller (PIC) micro-controller to control traffic signals
 in a desired manner. Fuzzy logic is used in their study to prolong the green phase depending on the traffic flow. The actual
@@ -47,14 +47,10 @@ notify users using SMS to avoid traffic congested roads.
 Retrieved from http://www.joics.com/publishedpapers/2012_9_10_2907_2914.pdf  
 Viewed: June 16, 2015  
 
-<sup>2</sup> "About OpenCV"  
-Retrieved from http://opencv.org/about.html
-Viewed: July 7, 2015
-
-<sup>3</sup> Mohammad A. Taha and Laheeb Ibrahim (2012), 12, 356–360, "Traffic Simulation System Based on Fuzzy Logic"  
+<sup>2</sup> Mohammad A. Taha and Laheeb Ibrahim (2012), 12, 356–360, "Traffic Simulation System Based on Fuzzy Logic"  
 Retrieved from http://www.sciencedirect.com/science/article/pii/S1877050912006758/pdf?md5=72a355f021b2ef8eebc01a7c9649feee&pid=1-s2.0-S1877050912006758-main.pdf
 Viewed: July 11, 2015  
 
-<sup>4</sup> Bilal Ahmed Khan and Nai Shyan Lai, 89-93, "An Intelligent Traffic Controller Based on Fuzzy Logic"  
+<sup>3</sup> Bilal Ahmed Khan and Nai Shyan Lai, 89-93, "An Intelligent Traffic Controller Based on Fuzzy Logic"  
 Retrieved from http://sdiwc.net/digital-library/download.php?id=00000573.pdf
 Viewed: July 11, 2015  
