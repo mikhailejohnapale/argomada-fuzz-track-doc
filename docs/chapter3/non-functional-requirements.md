@@ -1,4 +1,4 @@
-# Non-Fucnctional Requirements
+# Non-Functional Requirements
 
 The researchers have defined the following non-functional requirements
 that is needed in both the development and deployment of the proposed
