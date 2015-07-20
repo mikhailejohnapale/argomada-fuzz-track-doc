@@ -5,14 +5,6 @@ that is needed in both the development and deployment of the proposed
 system. These specifications are identified through rigid research and
 testing.
 
-DEPLOYMENT :
-| Specification     | Details                                                  |
-| Operating System  | Ubuntu Server 14.04.2 LTS (Trusty Tahr) x64              |
-| Processor         | 4th Generation Intel Core i3-4030U (1.90GHz 1600MHz 3MB) |
-| Disk Space        | 20 GB                                                    |
-| RAM Size (GB)     | 1GB DDR3                                                 |
-| Database          | MongoDB, MySQL 5.6                                       |
-
 DEVELOPMENT :
 | Specifcation          | Details                                                  |
 | Operating System      | Ubuntu Desktop 14.04.2 LTS (Trusty Tahr) x64             |
@@ -23,6 +15,14 @@ DEVELOPMENT :
 | Technology            | OpenCV 3.0 RC1, Meteor                                   |
 | Text Editor           | Sublime Text 3 Build 3083 x64, Vim 7.4                   | 
 | Database              | MongoDB, MySQL 5.6                                       |
+
+DEPLOYMENT :
+| Specification     | Details                                                  |
+| Operating System  | Ubuntu Server 14.04.2 LTS (Trusty Tahr) x64              |
+| Processor         | 4th Generation Intel Core i3-4030U (1.90GHz 1600MHz 3MB) |
+| Disk Space        | 512 GB                                                    |
+| RAM Size (GB)     | 1GB DDR3                                                 |
+| Database          | MongoDB, MySQL 5.6                                       |
 
 Nature of the System:
 Traffic Congestion Notification System is an online application
