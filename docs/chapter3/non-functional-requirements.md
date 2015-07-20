@@ -20,7 +20,7 @@ DEPLOYMENT :
 | Specification     | Details                                                  |
 | Operating System  | Ubuntu Server 14.04.2 LTS (Trusty Tahr) x64              |
 | Processor         | 4th Generation Intel Core i3-4030U (1.90GHz 1600MHz 3MB) |
-| Disk Space        | 512 GB                                                    |
+| Disk Space        | 512 GB                                                   |
 | RAM Size (GB)     | 1GB DDR3                                                 |
 | Database          | MongoDB, MySQL 5.6                                       |
 
