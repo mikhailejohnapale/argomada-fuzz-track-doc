@@ -6,7 +6,7 @@ this logic deals with approximate rather than fixed and exact reasoning.
 
 In the figure above, a temperature can be both cool and cold at the same time.The ranges 0 to 1 
 is the degree of membership of how cool and how cold a temperature might be, the range is also 
-called a grade or  a level. Cold, Cool and Hot are  called liguistic variables,  they represent 
+called a grade or  a level. Cold, Cool and Hot are  called linguistic variables,  they represent 
 the value of a temperature in words. Another term in fuzzy logic is the Membership function,wherein
 “input data are group into sets”(e.g T(temperature)={cold,cool,hot}).By having a membership function,
 an input value can have multiple sets (e.g cool  0.3 and cold  0.7 at the same time) with different 
@@ -47,15 +47,15 @@ Output data = the number of counts to be used for the output
 FO  = the fuzzy output in counts for labels n = A through G
 FGrade  = the fuzzy grade level for levels n = A through G
 
-In conclusion these are the main processes of fuzz logic algorithm: fuzification,inference and 
-defuzification. 
+In conclusion these are the main processes of fuzzy logic algorithm: fuzzification,inference and 
+defuzzification. 
 
-Fuzification
-1. Defining the linguistic variables.
+Fuzzification
+1. Define the linguistic variables.
 2. Construct membership functions.
 3. Contruct fuzzy rules.
 4. Convert input into fuzzy values.
 Inference
 1. Evaluate the fuzzy  rules.
-Defuzification
-1. Use one of the defuzzification methods to come up with an crisp output   or non-fuzzy values.
+Defuzzification
+1. Use one of the defuzzification methods to come up with a crisp output or non-fuzzy values.
