@@ -1,9 +1,8 @@
 # Non-Functional Requirements
 
-The researchers have defined the following non-functional requirements
-that is needed in both the development and deployment of the proposed
-system. These specifications are identified through rigid research and
-testing.
+The following are the non-functional requirements
+needed in both the development and deployment of the proposed
+system.
 
 DEVELOPMENT
 
@@ -31,9 +30,9 @@ Database               | MongoDB, MySQL 5.6
 
 Nature of the System:
 
-Traffic Congestion Notification System is an online application
-deployed on virtual private servers offered by private hosting
-companies or you can build your own private servers and deploy
-the system. The fuzzy logic algorithm will be tested during the
+Traffic Congestion Detection and Notification System is an application
+that will detect traffic status of a single lane road.
+The fuzzy logic algorithm will be tested during the
 development and production process to determine its efficiency
-in detecting traffic congestion.
+in detecting traffic congestion through human observation comparison
+from the systems asserted road status.
