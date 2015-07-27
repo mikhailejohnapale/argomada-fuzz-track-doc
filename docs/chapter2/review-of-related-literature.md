@@ -9,7 +9,7 @@ video analysis is done to detect traffic congestion on a particular road. While 
 factor used in the detection of traffic congestion it also includes the velocity of moving vehicles.
 Both are fed into the fuzzy logic algorithm to determine the road's condition.
 Fuzzy logic is used in the research because of its nature. There are no clear boundaries
-on what defines a traffic congestion (e.g A slow flow of vehicles does not mean it is experiencing heavy traffic).
+on what defines a traffic congestion (e.g. A slow flow of vehicles does not mean it is experiencing heavy traffic).
 This uncertainty behavior found on traffic situations makes fuzzy logic based systems suitable.
 The current study is similar to the related study specifically on the use of density and vehicles velocity as
 inputs to the fuzzy logic algorithm for traffic congestion detection.
