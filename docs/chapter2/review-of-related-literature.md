@@ -5,7 +5,7 @@ were reviewed in order to support the current study.
 
 The first related study is entitled "Real-time Traffic Congestion Detection Based on Video Analysis"
 by Shan Hu, Jiansheng Wu, Ling Xu <sup>1</sup>. In this study the researchers proposed a method using real-time
-video analysis to detect traffic congestion on a particular road. Density of vehicles is main
+video analysis to detect traffic congestion on a particular road. Density of vehicles is the main
 factor used in the detection of traffic congestion. Furthermore, the study also includes moving vehicles.
 The researchers does not stop on vehicle detection. However, the proposed also includes the vehicles velocity
 and both optical flow model will be fed into the fuzzy logic algorithm to determine the road's condition. Fuzzy
