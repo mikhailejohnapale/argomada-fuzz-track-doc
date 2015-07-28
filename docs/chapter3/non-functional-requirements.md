@@ -21,7 +21,7 @@ Internet Browser       | Mozilla Firefox 39.0, Chromium Version 43.0.2357.130 Ub
 DEPLOYMENT
 
 Specifications         | Details
-|----------------------+----------------------------------------------------------
+-----------------------|----------------------------------------------------------
 Operating System       | Ubuntu Server 14.04.2 LTS (Trusty Tahr) x64
 Processor              | 4th Generation Intel Core i3-4030U (1.90GHz 1600MHz 3MB)
 Disk Space             | 512 GB
