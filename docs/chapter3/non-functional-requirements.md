@@ -7,7 +7,7 @@ system.
 DEVELOPMENT
 
 Specifications         | Details
-|----------------------+----------------------------------------------------------
+-----------------------|----------------------------------------------------------
 Operating System       | Ubuntu Desktop 14.04.2 LTS (Trusty Tahr) x64
 Processor              | 4th Generation Intel Core i3-4030U (1.90GHz 1600MHz 3MB)
 RAM Size (GB)          | 16GB PC3-12800 DDR3L SDRAM 1600 MHz
