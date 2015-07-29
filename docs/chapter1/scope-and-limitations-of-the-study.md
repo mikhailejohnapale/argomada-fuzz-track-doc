@@ -9,7 +9,9 @@ no traffic, there's low traffic, there's moderate traffic,
 or there's heavy traffic. These results will be delivered 
 to registered subscribers through SMS technology. A website 
 of the system is available on the internet for users  to 
-subscribe, and keeps updated on the traffic. 
+subscribe, and keeps updated on the traffic. The Fuzzy logic 
+was tested to determine the efficiency in detecting the 
+traffic throught white and black box testing.
 
 
 Traffic data that will be used to feed the system will 
