@@ -31,8 +31,8 @@ Database               | MongoDB, MySQL 5.6
 Nature of the System:
 
 Traffic Congestion Detection and Notification System is an application
-that will detect traffic status of a single lane road.
-The fuzzy logic algorithm will be tested during the
-development and production process to determine its efficiency
-in detecting traffic congestion through human observation comparison
-from the systems asserted road status.
+that will detect traffic status of a single lane road. The application is a
+standalone system that will accept a video file of a single lane road and sends
+SMS messages to registered users. The registered users are from an auxilary online
+application. The auxillary online application is a website that will let users register
+and know road traffic status in realtime.
