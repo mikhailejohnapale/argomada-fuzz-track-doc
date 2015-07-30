@@ -48,6 +48,7 @@ git diff
 
 ## 7. Commit your changes
 Open a terminal, copy and paste the command below and hit enter.
+Please make messages that describe your work.
 
 ```
 git commit -am "contribution description"
