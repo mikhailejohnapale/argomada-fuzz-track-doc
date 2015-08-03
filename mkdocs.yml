@@ -19,6 +19,7 @@ pages:
 - 'Chapter 3 - Technical Background':
   - 'Algorithm': 'chapter3/algorithm.md'
   - 'Use Case Diagram': 'chapter3/usecase.md'
+  - 'Use Case Description': 'chapter3/usecase-description.md'
   - 'Use Case Narrative': 'chapter3/usecase-narrative.md'
   - 'Non Functional Requirements': 'chapter3/non-functional-requirements.md'
 - 'Chapter 4 - Design and Methodology':

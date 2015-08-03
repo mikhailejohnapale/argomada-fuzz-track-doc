@@ -1,4 +1,4 @@
-# Usecase Diagram
+# System Description
 
 The system is composed of 2 subsystems. The primary system is a standalone application
 that detects traffic from a video file. The secondary system is a website that only waits
